@@ -33,10 +33,18 @@ alr so i took a quick break, and after the break i finished the printer. i made 
 ![alt text](images/image-6.png)
 ![alt text](images/image-7.png)
 
-ill rq add the endstops. bruh so i had to increase the size of the frame.by 60 mms. heres the new frame
+ill rq add the endstops. i also forgot to add the bltouch mount.. bruh so i had to increase the size of the frame.by 60 mms. heres the new frame.
 
-![alt text](images/image-8.png)
+alr so i finished it and [heres](https://a360.co/4wAPMd2) the link.
 
+![alt text](images/image-9.png)
+![alt text](images/image-10.png)
+
+ima color ts too. the colors didnt download bruh.
+
+![alt text](images/image-11.png)
+
+also made the [bom](https://docs.google.com/spreadsheets/d/1zhgAOG6omMPHL8-E59rT1NqycOJV-DbqdpBb1aLMfEA/edit?usp=sharing)
 
 - https://lapse.hackclub.com/timelapse/Gw56jiP1FX1r
 - https://lapse.hackclub.com/timelapse/BCfBmr-IPPyY
