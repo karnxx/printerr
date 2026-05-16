@@ -20,11 +20,16 @@
 
 ## [BOM](https://docs.google.com/spreadsheets/d/1zhgAOG6omMPHL8-E59rT1NqycOJV-DbqdpBb1aLMfEA/edit?usp=sharing)
 - google spreadsheet. contains waht i have and what i dont as well.
+- also need m3 bolts and nuts, m2 bolts and nuts.
 <img width="822" height="641" alt="image" src="https://github.com/user-attachments/assets/98d6e734-b3b9-4008-8485-6f04c79adbad" />
 
 ## ELECTRICALS
 - the only electrical part is wiring everything to the motherboard which u can follow from here:
 <img width="1209" height="851" alt="image" src="https://github.com/user-attachments/assets/a8345e1f-3faf-48d9-b42c-34813ebbec80" />
+
+## TUTORIAL
+- how to tutorial making the printer.
+- https://docs.google.com/presentation/d/1nplpmd239wFnDh4o4nA4L8VTVWUOhqxiWH2lIJYEGgE/edit?usp=sharing
 
 ## CODE
 - you can use either klipper or marlin (or anything else u want). for klipper you will need an rpi.
